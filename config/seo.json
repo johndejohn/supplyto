@@ -1,14 +1,14 @@
 {
-  "title": "ACME Storefront | Powered by Next.js Commerce",
-  "titleTemplate": "%s - ACME Storefront",
-  "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+  "title": "Supplyto.co",
+  "titleTemplate": "%s - Supplyto",
+  "description": "Supplyto Commerce - https://www.supplyto.co",
   "openGraph": {
-    "title": "ACME Storefront | Powered by Next.js Commerce",
+    "title": "Supplyto Commerce",
     "description": "Next.js Commerce - https://www.nextjs.org/commerce",
     "type": "website",
     "locale": "en_IE",
-    "url": "https://nextjs.org/commerce",
-    "site_name": "Next.js Commerce",
+    "url": "https://supplyto.co",
+    "site_name": "Supplyto Commerce",
     "images": [
       {
         "url": "/card.png",
